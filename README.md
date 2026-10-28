@@ -13,6 +13,7 @@ Once imported, Klaviyo keeps its own copy on its CDN, so files here can be remov
 ## Layout
 
 - `promo/YYYY-MM-<slug>.jpg` — flyer images for "Promo …" campaigns (1200px wide JPG)
+- `oic/` — Office Interior Concepts (OIC) assets: logo and images for the OIC services drip flow (up to 1200px wide JPG; never upscaled)
 
 ## For Claude agents
 
